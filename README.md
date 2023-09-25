@@ -25,7 +25,7 @@ Welcome to the Discussion Forum Website project! This full-fledged discussion fo
   - Express.js
   - MySQL for database storage
   - JWT token for authentication
-  - 
+    
 ## Setup and Installation
 
 To run this project locally, follow these steps:
